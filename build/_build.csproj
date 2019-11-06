@@ -33,6 +33,7 @@
 
   <ItemGroup>
     <PackageReference Include="CSharpToday.Nuke.Useful" Version="0.3.5" />
+    <PackageReference Include="GitVersion.CommandLine.DotNetCore" Version="4.0.0" />
   </ItemGroup>
 
 </Project>
